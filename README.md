@@ -1,2 +1,4 @@
-# Calculator
-A Functional calculator made with HTML, CSS and JavaScript
+
+# Calculadora (Projeto OneBitCode)
+
+Uma Calculadora funcional feita com HTML, CSS e JS
